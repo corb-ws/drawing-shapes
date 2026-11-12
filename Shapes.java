@@ -25,10 +25,6 @@ public class Shapes {
               yousif.left(60);
               i++;
            }
-        
-           
-          
-           
         }
 
         // Task 3: How many times does Turtle turn!
@@ -52,7 +48,7 @@ public class Shapes {
               i++;
            }
         }
-        System.out.println(totalTurns);
+        System.out.println("yousif has turned " + totalTurns + " times!");
 
         // Extension 1:
 
